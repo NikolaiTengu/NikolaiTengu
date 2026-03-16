@@ -82,7 +82,7 @@ const marlowe = {
     "Master full-stack development",
     "Contribute to open source",
     "Build real-world projects",
-    "Land my first tech internship"
+    "Land my first tech job!"
   ],
   funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
