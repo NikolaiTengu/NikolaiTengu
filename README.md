@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=200&section=header&text=Marlowe%20Ian&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer%20%7C%20IT%20Student&descAlignY=58&descSize=18&descColor=c4b5fd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=200&section=header&text=Marlowe%20Ian&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Full-Stack%20Developer%20%7C%20IT%20Student&descAlignY=58&descSize=18&descColor=c4b5fd" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Marlowe+Ian+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;IT+Student+%40+Saint+Mary's+University;Building+one+commit+at+a+time+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
