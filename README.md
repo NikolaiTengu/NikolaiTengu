@@ -75,8 +75,7 @@ const marlowe = {
 
 <br/><br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=NikolaiTengu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiTengu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiTengu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
