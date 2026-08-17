@@ -26,7 +26,7 @@ const marlowe = {
   name:      "Marlowe Ian P. Jumagbas",
   alias:     "NikolaiTengu",
   location:  "Nueva Vizcaya, Philippines 🇵🇭",
-  education: "IT Student @ Saint Mary's University",
+  education: "Bachelor Degree Holder @ Saint Mary's University",
   portfolio: "https://marlowe-ian.vercel.app/",
 
   currentlyLearning: ["React", "Laravel", "Python", "Node.js"],
@@ -38,7 +38,7 @@ const marlowe = {
     "💼 Land my first tech job!"
   ],
 
-  passions:  ["Clean Code", "Problem Solving", "Cloud Technologies"],
+  passions:  ["Efficient Systems", "Problem Solving", "Cloud Technologies"],
   funFact:   "I debug with console.log() and I'm not ashamed 😄"
 };
 ```
@@ -112,7 +112,7 @@ const marlowe = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:8b5cf6,100:6366f1&height=120&section=footer&animation=fadeIn" />
 
-**💜 Thanks for stopping by! Check out my [portfolio](https://marlowe-ian.vercel.app/) and let's build something amazing together.**
+**<3 Thanks for stopping by! Check out my [portfolio](https://marlowe-ian.vercel.app/) and let's build something that will benefit others!.**
 
 *⭐ If you find my work helpful, consider leaving a star on a project!*
 
